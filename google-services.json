@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "802734320288",
+    "firebase_url": "https://text2speech-70163.firebaseio.com",
+    "project_id": "text2speech-70163",
+    "storage_bucket": "text2speech-70163.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802734320288:android:820281d118a0d9ac",
+        "android_client_info": {
+          "package_name": "com.kuber.alphageek.text2speechapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802734320288-7tt79pm74ckqjedp0gg5mt7qspo0uc37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP0yc1OGRLnTCKp-nglUtQWzKRMEcS5fw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
